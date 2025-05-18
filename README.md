@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05501f68-7a70-4b3b-9d1e-46cb1cc975e0" alt="TeoDev" />
+  <img src="https://github.com/user-attachments/assets/283840b5-d8f8-4496-9d4f-a271f83f47ab" alt="TeoDev" />
 </p>
+
 
 <h1 align="center">Hi there, I'm TeoDev 👋</h1>
 
