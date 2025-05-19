@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/283840b5-d8f8-4496-9d4f-a271f83f47ab" alt="TeoDev" />
+  <img src="https://github.com/user-attachments/assets/283840b5-d8f8-4496-9d4f-a271f83f47ab" alt="TeoDev-Banner" />
 </p>
-
 
 <h1 align="center">Hi there, I'm TeoDev 👋</h1>
 
@@ -26,17 +25,18 @@ I'm a self-taught game developer passionate about coding, creativity, and making
 ---
 
 ### 🚀 Goals
-- Build a strong indie game portfolio
-- Publish my first full mobile game
+- Build a strong indie game portfolio  
+- Publish my first full mobile game  
 - Learn more about design, systems, and clean code
 
 ---
 
 ### 📫 Get in Touch
 Feel free to connect with me on:  
-📩 Gmail: [teogen1125@gmail.com](https://mail.google.com/mail/?view=cm&to=teogen1125@gmail.com)  
-📷 Instagram: [@teodev.11](https://www.instagram.com/teodev.11)  
-🔗 LinkedIn: *(Coming soon)*
+📧 [Email Me](https://mail.google.com/mail/?view=cm&to=teogen1125@gmail.com)  
+📷 [Instagram - @teodev.11](https://instagram.com/teodev.11)  
+💬 [Telegram - @teodev11](https://t.me/teodev11)  
+🔗 LinkedIn *(Coming soon)*
 
 ---
 
